@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">photoSharing</string>
+   <string name="facebook_app_id">475419656529638</string>
+   <string name="fb_login_protocol_scheme">fb2352275491764824</string>
+</resources>
